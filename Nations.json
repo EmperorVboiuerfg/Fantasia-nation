@@ -13,14 +13,14 @@
 		"neutralHello": ".",
 		"hateHello": ".",
 		"tradeRequest": ".",
-                "outerColor": [ 28,51,119],
+                "outerColor": [214, 16, 16],
                 "innerColor": [255,255,255],
 		"style": "Human",
 		"uniqueName": "Bastion of Humanity",
 		"uniques": ["Human","Starts with [Information era]",
 			"[+999999999]% Culture cost of natural border growth [in all cities]",
 			"[+35]% [Science] <before discovering [Beyond]>",
-			
+			"Cannot build [Settler] units",
 		"cities": ["Strugan"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
