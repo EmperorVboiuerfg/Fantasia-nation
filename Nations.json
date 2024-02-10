@@ -1,0 +1,25 @@
+{
+    "name": "Strugan Republic",
+		"leaderName": "GOV NO.1",
+		"adjective": ["Homo Sapiens"],
+		"startBias": ["Earth"],
+		"preferredVictoryType": "Cultural",
+                "startIntroPart1": ". ",
+		"startIntroPart2": ". ",
+                "declaringWar": ". ",
+		"attacked": ". ",
+		"defeated": ". ",
+		"introduction": ".",
+		"neutralHello": ".",
+		"hateHello": ".",
+		"tradeRequest": ".",
+                "outerColor": [ 28,51,119],
+                "innerColor": [255,255,255],
+		"style": "Human",
+		"uniqueName": "Bastion of Humanity",
+		"uniques": ["Human","Starts with [Information era]",
+      
+    
+		"cities": ["Strugan"],
+                "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
