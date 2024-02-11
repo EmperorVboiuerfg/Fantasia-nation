@@ -18,7 +18,7 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city",
 			"Provides [1] [Superunit limit]",
-			"Gain a free [GOV NO.1] [in all cities] <for [Human]>",
+			"Gain a free [GOV NO.1] [in all cities] <for [Human]>",]
 		"uniqueTo": "Strugan Republic",
 	},
 ]
