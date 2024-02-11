@@ -16,9 +16,10 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
+		"replaces": "Palace",
 		"uniques": ["Indicates the capital city",
 			"Provides [1] [Superunit limit]",
-			"Gain a free [GOV NO.1] [in all cities] <for [Human]>",]
+			"Gain a free [GOV NO.1] [in all cities] <for [Human]>"]
 		"uniqueTo": "Strugan Republic",
 	},
 ]
