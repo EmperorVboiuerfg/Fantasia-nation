@@ -32,5 +32,5 @@
 			"Cannot build [Settler] units",
 		"cities": ["Strugan"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
-	},
+	}
 ]
