@@ -1,3 +1,4 @@
+[
 	{
 		"name": "Orbital Defense System",
 		"unitType": "Gunpowder",
@@ -12,3 +13,4 @@
     "uniqueTo": "Strugan Republic",
 		"uniques": ["Only available <for [Human]> <when above [19] [Power]>","Consumes [1] [Superunit limit]","Costs [20] [Power]"],
 	},
+]
