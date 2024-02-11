@@ -5,10 +5,10 @@
 		"outerColor": [255,255,255],
 //      	"innerColor": [0,0,0]
 	},
+	
 	{
 	// Nations
-    // Human Faction
-    "name": "Strugan Republic",
+                "name": "Strugan Republic",
 		"leaderName": "GOV NO.1",
 		"adjective": ["Homo Sapiens"],
 		"startBias": ["Earth"],
@@ -29,7 +29,7 @@
 		"uniques": ["Human","Starts with [Information era]",
 			"[+999999999]% Culture cost of natural border growth [in all cities]",
 			"[+35]% [Science] <before discovering [Beyond]>",
-			"Cannot build [Settler] units",
+			"Cannot build [Settler] units"]
 		"cities": ["Strugan"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	}
