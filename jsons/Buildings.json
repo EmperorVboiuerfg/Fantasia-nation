@@ -1,3 +1,4 @@
+[
 {
 		"name": "GOV NO.1",
 		"cost": 1,
@@ -6,7 +7,6 @@
 		"Gain a free [Ocean] [in this city] <in [All] tiles>"]
   "uniqueTo": "Strugan Republic",
 	},
-[
         {
 		"name": "The Republic",
 		"isNationalWonder": true,
@@ -22,3 +22,4 @@
 		]
         "uniqueTo": "Strugan Republic",
 	},
+]
