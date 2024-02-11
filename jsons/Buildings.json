@@ -19,7 +19,8 @@
 		"replaces": "Palace",
 		"uniques": ["Indicates the capital city",
 			"Provides [1] [Superunit limit]",
-			"Gain a free [GOV NO.1] [in all cities] <for [Human]>"]
+			"Gain a free [GOV NO.1] [in all cities] <for [Human]>",
+		"New [All] units start with [10000000] Experience [in all cities]"]
 		"uniqueTo": "Strugan Republic",
 	}
 ]
