@@ -1,4 +1,5 @@
-{
+[
+  {
     "name": "Strugan Republic",
 		"leaderName": "GOV NO.1",
 		"adjective": ["Homo Sapiens"],
@@ -24,3 +25,4 @@
 		"cities": ["Strugan"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
+]
