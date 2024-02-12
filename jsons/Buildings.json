@@ -15,6 +15,7 @@
 		"science": 10,
 		"gold": 30,
 		"culture": 10,
+		"faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
 		"replaces": "Palace",
