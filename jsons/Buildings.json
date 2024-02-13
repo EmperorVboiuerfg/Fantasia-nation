@@ -28,5 +28,21 @@
 			"Gain a free [GOV NO.1] [in all cities] <for [Human]>",
 		"New [All] units start with [10000000] Experience [in all cities]"]
 		"uniqueTo": "Strugan Republic",
+	},
+	        {
+		"name": "The Scourge",
+		"isNationalWonder": true,
+		"production": 15,
+		"food": 1,
+		"science": 3,
+		"gold": 4,
+		"culture": 1,
+		"cityStrength": 20,
+		"cost": 1,
+		"replaces": "Palace",
+		"uniques": ["Indicates the capital city",
+			"Provides [1] [Superunit limit]",
+			"[+20]% Production when constructing [All] units [in all cities]"]
+		"uniqueTo": "The Scourge",
 	}
 ]
