@@ -32,5 +32,32 @@
 			"Cannot build [Settler] units"],
 		"cities": ["Strugan"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+	{
+                "name": "The Scourge",
+		"leaderName": "The Hive",
+		"adjective": ["Scourge"],
+		"preferredVictoryType": "Domination",
+                "startIntroPart1": ". ",
+		"startIntroPart2": ". ",
+                "declaringWar": ". ",
+		"attacked": ". ",
+		"defeated": ". ",
+		"introduction": ".",
+		"neutralHello": ".",
+		"hateHello": ".",
+		"tradeRequest": ".",
+                "outerColor": [214, 16, 16],
+                "innerColor": [255,255,255],
+		"style": "Xeno",
+		"uniqueName": "Consumer of the Universe",
+		"uniques": ["Xeno","Starts with [Information era]",
+			"[-50]% Culture cost of natural border growth [in all cities]",
+			"[+100]% [Science] <before discovering [Beyond]>",
+                        "Borrows city names from other civilizations in the game",
+			"Earn [100]% of killed [All] unit's [Cost] as [Science]"
+		]
+		"cities": ["The Hive"],
+                "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	}
 ]
