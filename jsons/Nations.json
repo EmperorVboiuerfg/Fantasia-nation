@@ -25,12 +25,11 @@
                 "outerColor": [214, 16, 16],
                 "innerColor": [255,255,255],
 		"uniqueName": "Sanctuary of Man",
-		"uniques": [
-			"[+33]% Strength <vs [Major] units> <with different religion>", 
+		"uniques": ["[+33]% Strength <vs [Major] units> <with different religion>", 
 			"[+999999999]% Culture cost of natural border growth [in all cities]",
 			"[+1 Culture] per [4] population [in all cities] <when not at war>", 
-			"Cannot build [Settler] units"],
-		        "All newly-trained units [in capital] receive the [Evangelize Belief] promotion"], 
+			"Cannot build [Settler] units",
+		        "All newly-trained units [in capital] receive the [Evangelize Belief] promotion"],
 		"cities": ["Firsthold"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
