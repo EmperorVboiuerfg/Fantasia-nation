@@ -8,10 +8,10 @@
 	
 	{
 	// Nations
-                "name": "Strugan Republic",
-		"leaderName": "GOV NO.1",
-		"adjective": ["Homo Sapiens"],
-		"startBias": ["Earth"],
+                "name": "Trueborn",
+		"leaderName": "Representative of Man",
+		"adjective": ["Human"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
                 "startIntroPart1": ". ",
 		"startIntroPart2": ". ",
@@ -24,42 +24,14 @@
 		"tradeRequest": ".",
                 "outerColor": [214, 16, 16],
                 "innerColor": [255,255,255],
-		"style": "Human",
-		"uniqueName": "Bastion of Humanity",
-		"uniques": ["Human","Starts with [Information era]",
+		"uniqueName": "Sanctuary of Man",
+		"uniques": [
+			"[+33]% Strength <vs [Major] units> <with different religion>", 
 			"[+999999999]% Culture cost of natural border growth [in all cities]",
-			"[+35]% [Science] <before discovering [Beyond]>",
+			"[+1 Culture] per [4] population [in all cities] <when not at war>", 
 			"Cannot build [Settler] units"],
-		"cities": ["Strugan"],
+		        "All newly-trained units [in capital] receive the [Evangelize Belief] promotion"], 
+		"cities": ["Firsthold"],
                 "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
-	{
-                "name": "The Scourge",
-		"leaderName": "The Hive",
-		"adjective": ["Scourge"],
-		"preferredVictoryType": "Domination",
-                "startIntroPart1": ". ",
-		"startIntroPart2": ". ",
-                "declaringWar": ". ",
-		"attacked": ". ",
-		"defeated": ". ",
-		"introduction": ".",
-		"neutralHello": ".",
-		"hateHello": ".",
-		"tradeRequest": ".",
-                "outerColor": [0,0,0],
-                "innerColor": [0,0,0],
-		"style": "Xeno",
-		"uniqueName": "Consumer of the Universe",
-		"uniques": ["Xeno","Starts with [Xeno Life]",
-			"[+2 Production] per [3] population [in all cities]",
-			"[-50]% Culture cost of natural border growth [in all cities]",
-			"[+100]% [Science] <before discovering [Beyond]>",
-                        "Borrows city names from other civilizations in the game",
-			"Earn [100]% of killed [All] unit's [Cost] as [Science]",
-			"[-100]% unhappiness from the number of cities"
-		]
-		"cities": ["The Hive"],
-                "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
-	}
 ]
