@@ -12,7 +12,7 @@
 		"uniques": ["Can move after attacking",
 			"No damage penalty for wounded units", 
 			"[+25]% Strength <vs cities> <when attacking>",
-			"Preachable"],],
+			"Preachable"],
 	},
 		{
 		"name": "Warslaves",
@@ -26,7 +26,7 @@
 		"uniques": ["Can move after attacking", 
 			"Can build [Land] improvements on tiles", 
 			"[-33]% Strength <vs cities> <when attacking>", 
-			"Preachable"],],
+			"Preachable"],
 	},
 			{
 		"name": "Zealots",
@@ -40,6 +40,6 @@
     		"uniqueTo": "Trueborn",
 		"uniques": ["Can move after attacking", 
 			"[+15]% Strength <when attacking>", 
-			"Preachable"],],
+			"Preachable"],
 	},
 ]
