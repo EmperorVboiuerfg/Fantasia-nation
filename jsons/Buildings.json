@@ -17,7 +17,7 @@
 			"Provides [10] [Oil]",
 			"Provides [10] [Iron]",
 			"Provides [10] [Rune Stone]",
-		 "New [All] units start with [10000000] Experience [in all cities]"]
+		 "New [Military] units start with [150000] XP [in this city]"]
 		"uniqueTo": "Trueborn",
 	},
 ]
